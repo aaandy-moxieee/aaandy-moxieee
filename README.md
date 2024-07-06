@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaandy-moxieee&label=Profile%20views&color=0e75b6&style=flat" alt="aaandy-moxieee" /> </p>
 
-- 🌱 I’m currently learning **AWS Training and Certification Machine Learning and Kaggle Learn Courses**
+- 🌱 I’m currently learning about **Neural Nets, Transformers, and Attention heads in Transformers**
 
 - 💬 Ask me about **Machine Learning Models, Python, Neural Nets and AI**
 
