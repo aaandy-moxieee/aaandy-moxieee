@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">An Aspiring Data Scientist and ML Model engineer</h3>
 
-- 🔭 I’m currently working on **Text summarization and Sentiment analysis of News Articles**
+- 🔭 I’m currently working on **GM Reports and Dashboard to visualize service availablility for the Service Management team**
 
-- 🌱 I’m currently learning **Huggingface Transformers and AI Agents (Compound AI Systems)**
+- 🌱 I’m currently learning **Data analysis, creating semantic models with fact and dimension tables, utilizing Power BI for report visualization and dashboards**
 
 - 💬 Ask me about **Machine Learning Models, Python, Neural Nets & Transformers, Mathematics and Statistics**
 
 - 📫 How to reach me **andy99makaepea@outlook.com**
 
-- ⚡ Fun fact **Really good at tactical shooters, mainly play Valorant and CS. I also make music (though I am not good at it) <3**
+- ⚡ Fun fact **Play a lot of tactical shooters, mainly play Valorant and CS. I also make music (though I am not good at it) <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
