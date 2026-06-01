@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">An Aspiring Data Scientist and ML Model engineer</h3>
 
-- 🔭 I’m currently working on **GM Reports and Dashboard to visualize service availablility for the Service Management team**
+- 🔭 I’m currently working on **Employee File Digitization, Using OCR and LLMs.**
 
-- 🌱 I’m currently learning **Data analysis, creating semantic models with fact and dimension tables, utilizing Power BI for report visualization and dashboards**
+- 🌱 I’m currently learning **Tokenization, and the Byte-Pair Algorithm to compress long string into shorter tokens to work with the fixed context lengths of LLMs**
 
-- 💬 Ask me about **Machine Learning Models, Python, Neural Nets & Transformers, Mathematics and Statistics**
+- 💬 Ask me about **Machine Learning Models, Python, Development of AI/ML Models and Robotic Process Automation using Power Automate and n8n**
 
-- 📫 How to reach me **andy99makaepea@outlook.com**
-
-- ⚡ Fun fact **Play a lot of tactical shooters, mainly play Valorant and CS. I also make music (though I am not good at it) <3**
+- ⚡ Fun fact **I play video games and make music. Music fun, Valorant not-so-fun :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
